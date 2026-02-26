@@ -69,7 +69,7 @@ async def start_command(client: Client, message: Message):
                         InlineKeyboardButton("ᴛᴜᴛᴏʀɪᴀʟ •", url=tutorial_link)
                     ],
                     [
-                        InlineKeyboardButton(" • ʙᴜʏ ᴘʀᴇᴍɪᴜᴍ •", url="https://t.me/Premium_Fliix/21")
+                        InlineKeyboardButton(" • мσяє вσтѕ •", url="https://t.me/PrimeTgBots")
                     ]
                 ])
             )
