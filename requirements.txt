@@ -8,3 +8,6 @@ markdown
 asyncio
 TgCrypto
 requests
+git+https://github.com/ps-updates/pyrogram
+dotenv
+pyromod
